@@ -17,7 +17,7 @@
             <p>Find Your Ideal Therapist with AI-Powered Matching</p>
         </header>
         <main>
-            <img src="start-journey-clean.png" />
+            <img src="start-journey-clean.png" style="padding-top:265px; padding-right:33px;" />
         </main>
     </div>
     </form>
